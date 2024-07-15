@@ -1,0 +1,25 @@
+.process{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.para{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.head{
+   color: rgb(19, 12, 151);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.submit{
+    color: white;
+    background-color: rgb(99, 99, 229);
+    border-radius: 20px;
+}
